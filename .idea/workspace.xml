@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="77dfadfb-d8e7-480b-9b71-ccc0f7e4afcf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,42 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5598">
-              <caret line="404" column="57" selection-start-line="404" selection-start-column="57" selection-end-line="404" selection-end-column="57" />
+            <state relative-caret-position="540">
+              <caret line="351" column="4" lean-forward="true" selection-start-line="351" selection-start-column="4" selection-end-line="351" selection-end-column="4" />
+              <folding>
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#5;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#7;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#a#5;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#11;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#13;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#14;n#div#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/mui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="8083" column="32" selection-start-line="8083" selection-start-column="27" selection-end-line="8083" selection-end-column="32" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#22#28#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,18 +83,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/mui.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4266">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/laba.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -71,6 +92,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>试玩平台</find>
+      <find>init</find>
+      <find>mui-slider</find>
+      <find>slider</find>
+      <find>mui-slider-group</find>
+      <find>mui-slider-item</find>
+      <find>ranking-text-list</find>
+      <find>float</find>
+      <find>js</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,6 +147,12 @@
               <item name="appshiwan" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="appshiwan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appshiwan" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="mui.js" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,29 +194,31 @@
       <updated>1579006992330</updated>
       <workItem from="1579006998265" duration="3949000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1579072957270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579072957270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3949000" />
+    <option name="totallyTimeSpent" value="5049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="JRebel" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" visible="true" weight="0.329718" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -189,33 +226,65 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" visible="true" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/laba.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/mui.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4266">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -224,6 +293,18 @@
             <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="7" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/mui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8083" column="32" selection-start-line="8083" selection-start-column="27" selection-end-line="8083" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#22#28#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -237,8 +318,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5598">
-          <caret line="404" column="57" selection-start-line="404" selection-start-column="57" selection-end-line="404" selection-end-column="57" />
+        <state relative-caret-position="540">
+          <caret line="351" column="4" lean-forward="true" selection-start-line="351" selection-start-column="4" selection-end-line="351" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#4;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#5;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#7;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#5;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#11;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#13;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#14;n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
