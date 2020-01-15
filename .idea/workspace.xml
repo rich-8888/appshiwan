@@ -20,15 +20,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="352" column="8" selection-start-line="352" selection-start-column="8" selection-end-line="352" selection-end-column="8" />
+            <state relative-caret-position="540">
+              <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#a#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#4;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#4;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#5;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -36,8 +37,9 @@
                 <element signature="n#a#7;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#a#5;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#11;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#a#10;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#11;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#13;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#a#14;n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -47,29 +49,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/mui.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="8083" column="32" selection-start-line="8083" selection-start-column="27" selection-end-line="8083" selection-end-column="32" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#0#6#0" expanded="true" />
-                <element signature="e#22#28#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/img/rw/IMG_4832.JPG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/img/rw/15.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/rw/13.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/rw/IMG_4833.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/rw/IMG_4835.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/rw/IMG_4838.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/rw/10.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/rw/09.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -80,11 +96,6 @@
               <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/laba.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -100,6 +111,9 @@
       <find>ranking-text-list</find>
       <find>float</find>
       <find>js</find>
+      <find>2</find>
+      <find>&gt; 7</find>
+      <find>&gt; 6</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,6 +155,12 @@
               <item name="appshiwan" type="b2602c69:ProjectViewProjectNode" />
               <item name="appshiwan" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appshiwan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appshiwan" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="rw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="appshiwan" type="b2602c69:ProjectViewProjectNode" />
@@ -208,11 +228,25 @@
       <option name="project" value="LOCAL" />
       <updated>1579073995167</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1579074162837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579074162837</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1579077776089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579077776089</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5101000" />
+    <option name="totallyTimeSpent" value="6929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -315,6 +349,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/rw/IMG_4832.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rw/15.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rw/10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rw/09.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rw/13.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rw/IMG_4833.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rw/IMG_4835.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/rw/IMG_4838.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -325,15 +383,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="352" column="8" selection-start-line="352" selection-start-column="8" selection-end-line="352" selection-end-column="8" />
+        <state relative-caret-position="540">
+          <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#a#3;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#4;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#4;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#5;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -341,8 +400,9 @@
             <element signature="n#a#7;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#a#5;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#6;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#11;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#10;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#11;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#13;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#a#14;n#div#2;n#body#0;n#html#0;n#!!top" />
